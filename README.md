@@ -1,9 +1,22 @@
-# 👨‍💻 Ryan Erick Ngu Javea Fominyen
+# 👨‍💻 Ryana Erick Ngu Javea Fominyen
 
 Hello and welcome 👋  
 
-I'm a **Full-Stack and Mobile Developer** focused on building scalable, maintainable, and efficient software.  
-I actively work on real-world projects across **web**, **mobile**, and **AI**, aiming to deliver clean, high-impact solutions through thoughtful engineering and modern development practices.
+I’m **Ryana Erick Ngu Javea Fominyen**, a **Full-Stack and Mobile Developer** from Cameroon 🇨🇲.  
+Currently working with the **TIC Foundation**, **Ryans and Sons**, and **Hydra**, I’m passionate about designing and building impactful digital solutions that solve real-world problems.  
+
+Beyond coding, I teach **Computer Science at ALVEL**, mentor young developers, and contribute to projects that promote digital transformation and youth empowerment across Africa.  
+
+Recently, I successfully defended my **Bachelor’s Degree in Engineering** 🎓 from the **Institut Africaine d’Informatique (IAI-Cameroon)**, a milestone that reflects my growth in software engineering and innovation.
+
+---
+
+## 🧠 About Me
+- 🎓 Bachelor of Engineering, Institut Africaine d’Informatique (IAI-Cameroon)
+- 💼 Working with TIC Foundation, Ryans and Sons, and Hydra
+- 🧑‍🏫 Teaching Computer Science at ALVEL
+- 💡 Passionate about scalable software systems and AI integration
+- 🌍 Active volunteer in youth development and digital innovation projects
 
 ---
 
@@ -31,28 +44,32 @@ I actively work on real-world projects across **web**, **mobile**, and **AI**, a
 
 ---
 
-## ⚡ Quick Stats
+## 🚀 Featured Projects
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryane23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryane23&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryane23&theme=radical)
-
-</div>
-
----
-
-## 🚀 Pinned Projects
-
-- 🚌 [**BusEase**](https://github.com/ryane23/busease) — Real-time bus booking app with MoMo/Orange Pay  
-- 🧰 [**ProFix**](https://github.com/ryane23/profix) — Home service app connecting clients to artisans  
-- 💸 [**BoutikManager**](https://github.com/ryane23/boutikmanager) — Shop management system  
-- 🏫 [**TA Global Health System**](https://github.com/ryane23/taglobalhealth) — Multi-tenant school follow-up system  
+| No | Project | Description | Status | Stack |
+|----|----------|--------------|---------|--------|
+| 🚌 1 | **BusEase** | Smart bus booking system with MoMo/Orange Money payment and QR ticketing. | ✅ Completed (pending deployment) | React, Node.js, MongoDB |
+| 🩺 2 | **AFENET** | Emergency health response and alert system with geolocation and SOS dispatch. | ✅ Completed (pending deployment) | React Native, Flask, Firebase |
+| 🏫 3 | **TA Global Health System** | Multi-tenant school follow-up system managing cases and consultations. | ✅ Completed (pending deployment) | Laravel, React, MySQL |
+| 🦅 4 | **Eagle Multi Consultation** | Client record management system for health and consultation centers. | ✅ Completed (pending deployment) | Laravel, MySQL |
+| 💰 5 | **Salary Management System** | Automates employee payroll, tax, and HR data. | ✅ Completed (pending deployment) | PHP, MySQL |
+| 🪪 6 | **Military ID Creation System** | Secure digital ID generation and management system. | ✅ Completed (pending deployment) | Laravel, React |
+| 🍽️ 7 | **SaveEat** | Food-saving and donation platform connecting restaurants with communities. | ✅ Completed (pending deployment) | Node.js, React |
+| 💼 8 | **Job Searching Platform** | AI-enhanced platform for job discovery and applications. | 🚧 In Progress | Next.js, MongoDB |
+| 🤝 9 | **LinkedIn Internship Platform** | Platform for connecting students with internship opportunities. | 🚧 In Progress | React, Firebase |
 
 ---
 
-## 🧠 Tools & IDEs
+## 🏅 Achievements & Volunteering
+- 🏆 **Volunteer, TIC Summit 2025 & 2026** — Tech Impact Gala & Awards  
+- 🎓 **Aspire Institute Program (2025)** — Leadership & Professional Development  
+- 💬 **Class Delegate (2022–2025)** — Represented peers at IAI-Cameroon  
+- 🎯 **DTS Certified (Discipleship Training School)** — Leadership & mentoring certification  
+- 💻 **Intern, TIC Hub (Hydra)** — Software development & innovation training  
+
+---
+
+## ⚙️ Tools & IDEs
 
 <div align="center">
 
@@ -67,10 +84,15 @@ I actively work on real-world projects across **web**, **mobile**, and **AI**, a
 
 ---
 
-## 💬 Quote I Live By
+## 📈 GitHub Insights
 
-> _“Strive not to be a success, but rather to be of value.”_  
-> — **Albert Einstein**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryane23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryane23&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryane23&theme=radical)
+
+</div>
 
 ---
 
@@ -78,8 +100,14 @@ I actively work on real-world projects across **web**, **mobile**, and **AI**, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ryan-Erick-Ngu-Javea-Fominyen)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickryan2@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-erick-ngu-javea-fominyen-9539591a6/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickryan2@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryane23)
 </div>
+
+---
+
+## 💬 Personal Quote
+
+> “Code is not just about solving problems — it’s about building bridges between ideas and innovation.”  
+> — *Ryana Erick Ngu Javea Fominyen*
