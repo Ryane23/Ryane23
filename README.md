@@ -1,4 +1,4 @@
-# 👨‍💻 Ryana Erick Ngu Javea Fominyen
+# 👨‍💻 Ryan Erick Ngu Javea Fominyen
 
 Hello and welcome 👋  
 
