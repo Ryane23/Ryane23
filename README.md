@@ -1,8 +1,8 @@
-# 👨‍💻 Ryana Erick Ngu Javea Fominyen
+# 👨‍💻 Ryan Erick Ngu Javea Fominyen
 
 Hello and welcome 👋  
 
-I’m **Ryana Erick Ngu Javea Fominyen**, a **Full-Stack and Mobile Developer** from Cameroon 🇨🇲.  
+I’m **Ryan Erick Ngu Javea Fominyen**, a **Full-Stack and Mobile Developer** from Cameroon 🇨🇲.  
 Currently working with the **TIC Foundation**, **Ryans and Sons**, and **Hydra**, I’m passionate about designing and building impactful digital solutions that solve real-world problems.  
 
 Beyond coding, I teach **Computer Science at ALVEL**, mentor young developers, and contribute to projects that promote digital transformation and youth empowerment across Africa.  
