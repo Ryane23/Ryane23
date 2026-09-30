@@ -1,113 +1,115 @@
-# 👨‍💻 Ryan Erick Ngu Javea Fominyen
-
-Hello and welcome 👋  
-
-I’m **Ryan Erick Ngu Javea Fominyen**, a **Full-Stack and Mobile Developer** from Cameroon 🇨🇲.  
-Currently working with the **TIC Foundation**, **Ryans and Sons**, and **Hydra**, I’m passionate about designing and building impactful digital solutions that solve real-world problems.  
-
-Beyond coding, I teach **Computer Science at ALVEL**, mentor young developers, and contribute to projects that promote digital transformation and youth empowerment across Africa.  
-
-Recently, I successfully defended my **Bachelor’s Degree in Engineering** 🎓 from the **Institut Africaine d’Informatique (IAI-Cameroon)**, a milestone that reflects my growth in software engineering and innovation.
-
----
-
-## 🧠 About Me
-- 🎓 Bachelor of Engineering, Institut Africaine d’Informatique (IAI-Cameroon)
-- 💼 Working with TIC Foundation, Ryans and Sons, and Hydra
-- 🧑‍🏫 Teaching Computer Science at ALVEL
-- 💡 Passionate about scalable software systems and AI integration
-- 🌍 Active volunteer in youth development and digital innovation projects
-
----
-
-## 🧰 Tech Stack
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ryan Erick — Full-stack and mobile developer](./public/readme-terminal.svg)
+
+### I turn real-world problems into dependable web and mobile products.
+
+**Software Developer @ CRESTLANCING** · Yaoundé, Cameroon 🇨🇲
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-22D3EE?style=flat-square&logo=vercel&logoColor=07131A)](https://ryane23portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-erick-ngu-javea-fominyen-9539591a6/)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:erickryan2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ryane23)
 
 </div>
 
----
+## `01. PROFILE`
 
-## 🚀 Featured Projects
+I’m **Ryan Erick Ngu Javea Fominyen**, a software engineer building web applications, mobile products, backend systems, APIs, databases, and digital platforms. My experience spans agriculture, food services, business management, transportation, and community-focused technology.
 
-| No | Project | Description | Status | Stack |
-|----|----------|--------------|---------|--------|
-| 🚌 1 | **BusEase** | Smart bus booking system with MoMo/Orange Money payment and QR ticketing. | ✅ Completed (pending deployment) | React, Node.js, MongoDB |
-| 🩺 2 | **AFENET** | Emergency health response and alert system with geolocation and SOS dispatch. | ✅ Completed (pending deployment) | React Native, Flask, Firebase |
-| 🏫 3 | **TA Global Health System** | Multi-tenant school follow-up system managing cases and consultations. | ✅ Completed (pending deployment) | Laravel, React, MySQL |
-| 🦅 4 | **Eagle Multi Consultation** | Client record management system for health and consultation centers. | ✅ Completed (pending deployment) | Laravel, MySQL |
-| 💰 5 | **Salary Management System** | Automates employee payroll, tax, and HR data. | ✅ Completed (pending deployment) | PHP, MySQL |
-| 🪪 6 | **Military ID Creation System** | Secure digital ID generation and management system. | ✅ Completed (pending deployment) | Laravel, React |
-| 🍽️ 7 | **SaveEat** | Food-saving and donation platform connecting restaurants with communities. | ✅ Completed (pending deployment) | Node.js, React |
-| 💼 8 | **Job Searching Platform** | AI-enhanced platform for job discovery and applications. | 🚧 In Progress | Next.js, MongoDB |
-| 🤝 9 | **LinkedIn Internship Platform** | Platform for connecting students with internship opportunities. | 🚧 In Progress | React, Firebase |
+Today, I develop and maintain software at **CRESTLANCING**, collaborating across the full development lifecycle—from interface and API design to debugging, testing, and product improvement.
 
----
+```ts
+const ryan = {
+  role: "Software Developer @ CRESTLANCING",
+  builds: ["web platforms", "mobile apps", "APIs", "data systems"],
+  exploring: ["cloud computing", "AI/ML", "software architecture"],
+  principle: "Build useful systems. Learn continuously. Ship with care."
+};
+```
 
-## 🏅 Achievements & Volunteering
-- 🏆 **Volunteer, TIC Summit 2025 & 2026** — Tech Impact Gala & Awards  
-- 🎓 **Aspire Institute Program (2025)** — Leadership & Professional Development  
-- 💬 **Class Delegate (2022–2025)** — Represented peers at IAI-Cameroon  
-- 🎯 **DTS Certified (Discipleship Training School)** — Leadership & mentoring certification  
-- 💻 **Intern, TIC Hub (Hydra)** — Software development & innovation training  
-
----
-
-## ⚙️ Tools & IDEs
+## `02. ENGINEERING TOOLKIT`
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Interfaces | Backend Systems | Data Layer | Cloud & Workflow |
+|:---:|:---:|:---:|:---:|
+| ![Interfaces](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind) | ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django) | ![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase) | ![Workflow](https://skillicons.dev/icons?i=aws,docker,git,github) |
 
 </div>
 
----
+- **Mobile & product UI:** React Native · Expo · Vite · Bootstrap
+- **Backend & architecture:** Laravel · REST APIs · authentication · real-time applications · payment integration
+- **AI & machine learning:** Python · TensorFlow · computer vision · facial recognition · Anaconda
+- **Data tooling:** Firebase · Prisma · Sequelize · database design
 
-## 📈 GitHub Insights
+## `03. PRODUCTS I HAVE CONTRIBUTED TO`
+
+| Product | Domain | What I worked on |
+|:---|:---|:---|
+| **Projina** | Digital platform | Application functionality, software development, and technical implementation |
+| **ChopAsap** | Food services | User-facing features, backend integration, and application functionality |
+| **Bajoma** | Agriculture | An agricultural marketplace connecting users with products and services |
+| **BusEase** | Transportation | Passenger services, digital booking, and a bus-ticketing experience |
+
+These are the major products documented in my CV. My wider work also includes web, mobile, backend, AI, healthcare, business, and other digital-platform projects.
+
+## `04. CAREER LOG`
+
+| Timeline | Role | Progress |
+|:---|:---|:---|
+| **Feb 2026 → Present** | **Software Developer · CRESTLANCING** | Building and maintaining full-stack and mobile products, APIs, databases, and user interfaces within a professional engineering team |
+| **Jan 2026 → Feb 2026** | **Software Development Intern · CRESTLANCING** | Moved from team-based engineering practice into a full Software Developer role |
+| **Jan 2025 → Feb 2025** | **Computer Science Home Tutor** | Taught programming and Computer Science to GCSE and A-Level learners |
+| **Sep 2022 → Oct 2024** | **Software Development Intern · TIC Foundation** | Developed practical experience in software, teamwork, mentorship, and community technology initiatives |
+| **2022 → 2025** | **BSc Computer Science · IAI Cameroon** | Studied software engineering, databases, application design, programming, and information systems |
+
+<details>
+<summary><strong>Education, languages & recognition</strong></summary>
+<br>
+
+- **Bachelor’s in Computer Science** — Institut Africain d’Informatique, IAI Cameroon
+- **GCE Advanced Level** — Mathematics, Physics, Computer Science, and Chemistry
+- **English and French** — professional proficiency
+- **Aspire Leaders Program** — cohort participant
+
+</details>
+
+## `05. ENGINEERING RANGE`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryane23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryane23&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryane23&theme=radical)
+`INTERFACE` → `API` → `AUTH` → `DATA` → `CLOUD` → `OBSERVE` → `ITERATE`
 
 </div>
 
----
+I’m growing from feature delivery into deeper **software architecture, cloud systems, and AI-enabled product engineering**. The goal is not to collect technologies—it is to choose the right layer, understand the trade-offs, and build systems that remain useful after launch.
 
-## 🌍 Connect With Me
+## `06. GITHUB SIGNAL // LIVE PROGRESS`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-erick-ngu-javea-fominyen-9539591a6/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickryan2@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryane23)
+![Animated engineering trajectory](./public/github-trajectory.svg)
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryane23&theme=github_dark" alt="Ryan&apos;s live GitHub contribution and repository activity" />
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryane23&layout=donut&langs_count=8&hide_border=true&bg_color=050C16&title_color=22D3EE&text_color=C9D1D9&custom_title=Frequently%20Used%20Languages" alt="Languages detected across Ryan's public GitHub repositories" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Ryane23&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050C16&title_color=22D3EE&icon_color=4ADE80&text_color=C9D1D9&ring_color=22D3EE&custom_title=Repository%20Signal" alt="Ryan's live public GitHub statistics" />
+
 </div>
 
----
+> The live panels refresh from public GitHub activity. The animated trajectory shows how my engineering focus has evolved; the language bars represent a recent repository signal, not a fixed skill ranking.
 
-## 💬 Personal Quote
+## `07. OPEN CHANNEL`
 
-> “Code is not just about solving problems — it’s about building bridges between ideas and innovation.”  
-> — *Ryana Erick Ngu Javea Fominyen*
+I’m open to thoughtful collaborations around **web platforms, mobile products, education technology, cloud systems, civic innovation, and AI-enabled tools**.
+
+> Have a useful idea, a hard technical problem, or a project with real community impact? [Send me an email](mailto:erickryan2@gmail.com), [visit my portfolio](https://ryane23portfolio.vercel.app), or [connect on LinkedIn](https://www.linkedin.com/in/ryan-erick-ngu-javea-fominyen-9539591a6/).
+
+<div align="center">
+
+`< learn />` → `< build />` → `< measure />` → `< improve />`
+
+<sub>“Code is not just about solving problems—it’s about building bridges between ideas and innovation.”</sub>
+
+</div>
