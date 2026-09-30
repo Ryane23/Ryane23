@@ -85,20 +85,41 @@ These are the major products documented in my CV. My wider work also includes we
 
 I’m growing from feature delivery into deeper **software architecture, cloud systems, and AI-enabled product engineering**. The goal is not to collect technologies—it is to choose the right layer, understand the trade-offs, and build systems that remain useful after launch.
 
-## `06. GITHUB SIGNAL // LIVE PROGRESS`
+## `06. GITHUB SIGNAL // LIVE TELEMETRY`
 
 <div align="center">
 
-![Animated engineering trajectory](./public/github-trajectory.svg)
+[![Refresh profile metrics](https://github.com/Ryane23/Ryane23/actions/workflows/refresh-profile-metrics.yml/badge.svg)](https://github.com/Ryane23/Ryane23/actions/workflows/refresh-profile-metrics.yml)
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryane23&theme=github_dark" alt="Ryan&apos;s live GitHub contribution and repository activity" />
+![Live GitHub contribution and repository telemetry](./public/github-live-metrics.svg)
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryane23&layout=donut&langs_count=8&hide_border=true&bg_color=050C16&title_color=22D3EE&text_color=C9D1D9&custom_title=Frequently%20Used%20Languages" alt="Languages detected across Ryan's public GitHub repositories" />
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Ryane23&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050C16&title_color=22D3EE&icon_color=4ADE80&text_color=C9D1D9&ring_color=22D3EE&custom_title=Repository%20Signal" alt="Ryan's live public GitHub statistics" />
+<img width="68%" src="https://streak-stats.demolab.com?user=Ryane23&hide_border=true&background=050C16&stroke=164E63&ring=22D3EE&fire=A855F7&currStreakLabel=4ADE80&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Ryan's live daily GitHub contribution streak" />
 
 </div>
 
-> The live panels refresh from public GitHub activity. The animated trajectory shows how my engineering focus has evolved; the language bars represent a recent repository signal, not a fixed skill ranking.
+The telemetry is calculated from GitHub’s contribution calendar, public repository metadata, and repository language bytes. It refreshes every day and keeps an [auditable data snapshot](./public/github-live-data.json) beside the visual.
+
+### Recently updated repository stream
+
+| Repository | Classification | Source / Demo |
+|:---|:---|:---|
+| **Music Player** | TypeScript · everyday-use application | [Source](https://github.com/Ryane23/musicplayer-) |
+| **UniCorp Backend** | TypeScript · backend services | [Source](https://github.com/Ryane23/unicorp-backend-) |
+| **Smart Utility Toolkit** | TypeScript · mobile utility application | [Source](https://github.com/Ryane23/Smart-Utility-Toolkit-Mobile-App) |
+| **BusEase 2.0** | JavaScript · transportation and booking | [Source](https://github.com/Ryane23/busease2.0) |
+| **Salary Management** | Python · business management system | [Source](https://github.com/Ryane23/salary-management) |
+| **AI Study Assistant** | JavaScript · AI-assisted learning | [Source](https://github.com/Ryane23/mern-ai-study-assistant-) |
+
+### Published project links
+
+| Live project | Technology | Links |
+|:---|:---:|:---|
+| **Ryan Erick Portfolio** | TypeScript | [Live](https://ryane23portfolio.vercel.app) · [Source](https://github.com/Ryane23/Ryane23portfolio) |
+| **3D Portfolio** | TypeScript | [Live](https://3dportfolio-flame.vercel.app) · [Source](https://github.com/Ryane23/3dportfolio) |
+| **Bah Clarkson Portfolio** | TypeScript | [Live](https://bahclarkson-portfolio.vercel.app) · [Source](https://github.com/Ryane23/bahclarkson-portfolio-) |
+| **Formula 1 Interface** | TypeScript | [Live](https://formula1-alpha.vercel.app) · [Source](https://github.com/Ryane23/Formula1) |
+
+> **Data note:** “Live projects” counts public repository demos returning HTTP 200–399 during the daily refresh. Contribution totals include activity visible through GitHub’s public contribution calendar.
 
 ## `07. OPEN CHANNEL`
 

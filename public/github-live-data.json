@@ -1,0 +1,167 @@
+{
+  "source": "GitHub GraphQL contribution calendar and REST repository/language APIs",
+  "generatedAt": "2026-09-30T13:57:43.230Z",
+  "username": "Ryane23",
+  "summary": {
+    "totalContributions": 426,
+    "activeDays": 117,
+    "currentStreak": 2,
+    "longestStreak": 11,
+    "bestDay": {
+      "date": "2026-09-24",
+      "contributionCount": 26
+    },
+    "last30Contributions": 43,
+    "publicRepositories": 39,
+    "liveProjects": 4,
+    "publishedProjectLinks": 6
+  },
+  "definitions": {
+    "liveProjects": "Public repository homepages returning HTTP 200–399 at refresh time.",
+    "publishedProjectLinks": "Public repositories with a non-empty HTTP(S) homepage/demo URL.",
+    "currentStreak": "Consecutive contribution days ending today, or yesterday when today has no contribution yet."
+  },
+  "yearly": [
+    {
+      "year": 2023,
+      "contributions": 4
+    },
+    {
+      "year": 2024,
+      "contributions": 14
+    },
+    {
+      "year": 2025,
+      "contributions": 94
+    },
+    {
+      "year": 2026,
+      "contributions": 314
+    }
+  ],
+  "topLanguages": [
+    {
+      "name": "Python",
+      "bytes": 5031531,
+      "percent": 51.45034578836803
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 2755249,
+      "percent": 28.174031678042972
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 734241,
+      "percent": 7.5080434448276545
+    },
+    {
+      "name": "HTML",
+      "bytes": 639811,
+      "percent": 6.542441493295288
+    },
+    {
+      "name": "PHP",
+      "bytes": 374419,
+      "percent": 3.828653151443362
+    }
+  ],
+  "recentProjects": [
+    {
+      "name": "musicplayer-",
+      "language": "TypeScript",
+      "url": "https://github.com/Ryane23/musicplayer-",
+      "liveUrl": null,
+      "pushedAt": "2026-08-01T23:29:35Z"
+    },
+    {
+      "name": "unicorp-backend-",
+      "language": "TypeScript",
+      "url": "https://github.com/Ryane23/unicorp-backend-",
+      "liveUrl": null,
+      "pushedAt": "2026-07-08T14:01:38Z"
+    },
+    {
+      "name": "bahclarkson-portfolio-",
+      "language": "TypeScript",
+      "url": "https://github.com/Ryane23/bahclarkson-portfolio-",
+      "liveUrl": "https://bahclarkson-portfolio.vercel.app",
+      "pushedAt": "2026-06-24T10:57:53Z"
+    },
+    {
+      "name": "3dportfolio",
+      "language": "TypeScript",
+      "url": "https://github.com/Ryane23/3dportfolio",
+      "liveUrl": "https://3dportfolio-flame.vercel.app",
+      "pushedAt": "2026-06-19T20:57:52Z"
+    },
+    {
+      "name": "Smart-Utility-Toolkit-Mobile-App",
+      "language": "TypeScript",
+      "url": "https://github.com/Ryane23/Smart-Utility-Toolkit-Mobile-App",
+      "liveUrl": null,
+      "pushedAt": "2026-05-27T17:19:29Z"
+    },
+    {
+      "name": "salary23",
+      "language": "Python",
+      "url": "https://github.com/Ryane23/salary23",
+      "liveUrl": null,
+      "pushedAt": "2026-05-27T17:19:26Z"
+    }
+  ],
+  "liveProjects": [
+    {
+      "name": "bahclarkson-portfolio-",
+      "url": "https://github.com/Ryane23/bahclarkson-portfolio-",
+      "liveUrl": "https://bahclarkson-portfolio.vercel.app"
+    },
+    {
+      "name": "3dportfolio",
+      "url": "https://github.com/Ryane23/3dportfolio",
+      "liveUrl": "https://3dportfolio-flame.vercel.app"
+    },
+    {
+      "name": "Ryane23portfolio",
+      "url": "https://github.com/Ryane23/Ryane23portfolio",
+      "liveUrl": "https://ryane23portfolio.vercel.app"
+    },
+    {
+      "name": "Formula1",
+      "url": "https://github.com/Ryane23/Formula1",
+      "liveUrl": "https://formula1-alpha.vercel.app"
+    }
+  ],
+  "publishedProjects": [
+    {
+      "name": "bahclarkson-portfolio-",
+      "url": "https://github.com/Ryane23/bahclarkson-portfolio-",
+      "liveUrl": "https://bahclarkson-portfolio.vercel.app"
+    },
+    {
+      "name": "3dportfolio",
+      "url": "https://github.com/Ryane23/3dportfolio",
+      "liveUrl": "https://3dportfolio-flame.vercel.app"
+    },
+    {
+      "name": "Ryane23portfolio",
+      "url": "https://github.com/Ryane23/Ryane23portfolio",
+      "liveUrl": "https://ryane23portfolio.vercel.app"
+    },
+    {
+      "name": "Formula1",
+      "url": "https://github.com/Ryane23/Formula1",
+      "liveUrl": "https://formula1-alpha.vercel.app"
+    },
+    {
+      "name": "laravel-ecommerce",
+      "url": "https://github.com/Ryane23/laravel-ecommerce",
+      "liveUrl": "https://laravel-ecommerce-black.vercel.app"
+    },
+    {
+      "name": "Myfirstport",
+      "url": "https://github.com/Ryane23/Myfirstport",
+      "liveUrl": "https://myfirstport.vercel.app"
+    }
+  ]
+}
